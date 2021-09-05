@@ -37,4 +37,8 @@ payload ::  {"msg":"Hello!"}
 
 ![image](https://user-images.githubusercontent.com/16365313/132140990-492049c9-1a94-4b28-9ec9-83110b405d20.png)
 
+## Referência 
+
+[TECHDAI.INFO](https://techdai.info/how-to-create-and-verify-jwt-tokens-via-jwk-endpoints-for-your-microservices-in-node-js/)
+
 
