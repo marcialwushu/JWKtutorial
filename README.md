@@ -35,3 +35,6 @@ token ::  eyJhbGciOiJSUzI1NiIsImtpZCI6ImFIM1JWbEdHWjZHV3J0QXlqejVZUjdaaFg3Wm93eT
 payload ::  {"msg":"Hello!"}
 ```
 
+![image](https://user-images.githubusercontent.com/16365313/132140990-492049c9-1a94-4b28-9ec9-83110b405d20.png)
+
+
